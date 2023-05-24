@@ -11,7 +11,7 @@ public class App {
         TestCases tests = new TestCases(); // Initialize your test class
         //TODO: call your test case functions one after other here
 
-        tests.testCase01();
+        //tests.testCase01();
         //tests.testCase02();
         //tests.testcase03();
         //tests.testcase04();
@@ -19,7 +19,7 @@ public class App {
         //tests.testcase06();
         //tests.testcase07();
         //tests.testcase08();
-        //tests.testcase09();
+        tests.testcase09();
         //END Tests
         tests.endTest(); // End your test by clearning connections and closing browser
     }
